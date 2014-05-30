@@ -33,7 +33,11 @@
             <version>2.1.0</version>
             <scope>provided</scope>
         </dependency>
-
+        <dependency>
+            <groupId>utilities</groupId>
+            <artifactId>utilities</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
 
 
         <dependency>
